@@ -1,0 +1,17 @@
+3
+
+int 7
+1 2 3 1 1 4 1
+5
+5 1 2 3 4
+
+char 8
+a b b c d d d f
+3
+b d c
+
+string 4
+hello hello hello hello
+2
+hello
+hello

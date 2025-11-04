@@ -1,0 +1,12 @@
+4
+
+int 3
+3 2 1
+
+char 2
+b a
+
+string 4
+cool very is programming
+
+int 0

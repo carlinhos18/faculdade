@@ -1,0 +1,25 @@
+3
+
+int 1
+1
+5
+0 2
+2 3
+4 4
+1 5
+2 6
+
+char 4
+a b c d
+5
+4 z
+0 y
+-1 x
+10 w
+1 v
+
+string 0
+
+2
+0 hello
+1 world

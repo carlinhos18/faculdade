@@ -1,0 +1,16 @@
+3
+
+int 8
+1 2 3 4 3 1 2 1
+5
+1 2 3 4 5
+
+char 5
+a a a a a
+2
+b a
+
+string 2
+hello world
+3
+hello world c++
