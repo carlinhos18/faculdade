@@ -1,0 +1,19 @@
+6
+
+int
+6 3 2 N N 5 N N 10 8 N N 25 N N
+
+int
+6 3 2 N N 5 N N 10 N N
+
+int
+6 3 N N 10 N N
+
+int
+6 3 2 N N N 10 8 N N 25 N N
+
+int
+6 3 2 N N 5 N N N
+
+int
+6 3 N 5 N N 10 N 25 N N
